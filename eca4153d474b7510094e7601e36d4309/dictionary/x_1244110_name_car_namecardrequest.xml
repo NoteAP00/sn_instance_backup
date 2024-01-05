@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="67a219ba47073110094e7601e36d4398" extends="sc_request" label="nameCardRequest" max_length="40" name="x_1244110_name_car_namecardrequest" type="collection"/>
+</database>

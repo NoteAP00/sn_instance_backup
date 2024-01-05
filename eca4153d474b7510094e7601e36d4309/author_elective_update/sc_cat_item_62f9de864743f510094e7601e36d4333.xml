@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Request Name Card</name>
+        <no_attachment_v2>true</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=62f9de864743f510094e7601e36d4333&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>request</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
+        <short_description>Request Name Card</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 03:45:28</sys_created_on>
+        <sys_id>62f9de864743f510094e7601e36d4333</sys_id>
+        <sys_mod_count>41</sys_mod_count>
+        <sys_name>Request Name Card</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_update_name>sc_cat_item_62f9de864743f510094e7601e36d4333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 06:27:19</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <version>41</version>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=62f9de864743f510094e7601e36d4333"/>
+    <fx_price action="DELETE" query="id=62f9de864743f510094e7601e36d4333"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>62f9de864743f510094e7601e36d4333</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 03:45:28</sys_created_on>
+        <sys_id>66f9de864743f510094e7601e36d4334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 03:45:28</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Name card">eca4153d474b7510094e7601e36d4309</application>
+        <file_path/>
+        <instance_id>9ea81635dbca730852dd2f17d4961921</instance_id>
+        <instance_name>dev87549</instance_name>
+        <name>sc_cat_item_62f9de864743f510094e7601e36d4333</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category/><checked_out/><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Request Name Card</name><no_attachment_v2>true</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>true</no_cart_v2><no_delivery_time_v2>true</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>true</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>true</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=62f9de864743f510094e7601e36d4333&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><request_method>request</request_method><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template><short_description>Request Name Card</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-13 03:45:28</sys_created_on><sys_id>62f9de864743f510094e7601e36d4333</sys_id><sys_mod_count>41</sys_mod_count><sys_name>Request Name Card</sys_name><sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package><sys_policy/><sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope><sys_update_name>sc_cat_item_62f9de864743f510094e7601e36d4333</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-13 06:27:19</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><version>41</version><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=62f9de864743f510094e7601e36d4333"/><fx_price action="delete_multiple" query="id=62f9de864743f510094e7601e36d4333"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>62f9de864743f510094e7601e36d4333</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-13 03:45:28</sys_created_on><sys_id>66f9de864743f510094e7601e36d4334</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-13 03:45:28</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-204155690</payload_hash>
+        <record_name>Request Name Card</record_name>
+        <reverted_from/>
+        <source>24a4153d474b7510094e7601e36d430e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 06:27:19</sys_created_on>
+        <sys_id>910f7e064707f510094e7601e36d4308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c61dbbc510000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 06:27:19</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>950f7e063907f5100ea0334baefb1907</update_guid>
+        <update_guid_history>950f7e063907f5100ea0334baefb1907:-204155690,13abf6022d07f51066b934692ee95e70:2119604998,d4aafe8ee9c3f51002555a6b6f4a4a3b:966777968,aae5e6468d83f510542c5ec5c231f7ee:-1623558481,ece5e6467783f510cd0b4162c07e5335:81072366,15d4e206bb83f510d57d4dad8540add2:-1454879593,cbb462069a83f510feded794b519a5a6:200688066,54546ac26883f510184b42b665cbaa8d:1038662038,07442ac2c683f510da41e12163ef17c7:-1551674411,2624a6c29b83f510e765fc072c4e5f21:152956436,022466c2ab83f510e7a85f139ac755b0:1857587283,4204e2c2b683f510d9116123e0dd7418:-732749166,a104a2c25c83f510e6cbefbe97171395:-1885576196,aad3ee82e283f51012786ef3180b670b:-180945349,1dd3ae823c83f510d120deea82b13a8c:1523685498,38d3ae82c683f51053591c847f18d352:-1066650951,bec36e828e83f51028dc2776ac97476f:637979896,a6c36e829783f5107903c16709f0ce63:-1952356553,62c36e827983f5109173c6e61dead74a:-247725706,adc32e82ca83f51007abf36437c3688a:1456905141,6813ee428f83f5107106efdb37359385:-1133431308,a013ee423883f510160bc38190022c79:571199539,ac13ee426783f51039afbf3f66ee065f:-581627491,4413ae425a83f5103326e25b2b3274d4:1123003356,8813ae423783f51075bd2e9926c1d3c6:-1467333093,8813ae42b283f510c5b95e43f2d455ac:237297754,b2f22e42a883f510e4e6631734c479e1:1941928601,d6f22e42df83f510ac7da01adae0757e:-648407848,ece2aa42ca83f510d2583d1bd2b9948b:1056222999,48e2aa42b083f51048f8dcfcf8168031:-1534113450,5db2a6427183f5101e7b5f12866b5acc:170517397,a8b2a642d583f510bd4997d5aca7302b:1875148244,25f1e602fd83f510884fa391c639e7fc:-1466395346,ddf1e602a983f5105dab52332a2307f4:-2141599352,7dd166029483f5103f64caf46b1e632e:-436968505,29416ace0643f510f398f986345f8b7d:487920295,a3fb9a4a7443f510f6102d9f2affa92f:881459200,f1fb5a4a2743f5105d49d378a758ba6f:1424666974,ecba5ec65c43f51043b2e7409363f8f7:1306845540,402a92c65043f510de7ed7542abaefca:1700384445,4e1a92c6d643f510ef0fb2906c587c0a:-2051375077,2ef9de86ee43f51099a5597d2af72a37:-970791723</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request Name Card">87d2c38a4707f510094e7601e36d430f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 06:44:06</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>11613c3bc36c4998b6061447c924fc90</sys_id>
+        <sys_metadata>62f9de864743f510094e7601e36d4333</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Name Card</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_scope_delete display_value="">44832a3e23704b20a41a0cf97f903441</sys_scope_delete>
+        <sys_update_name>sc_cat_item_62f9de864743f510094e7601e36d4333</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_62f9de864743f510094e7601e36d4333">910f7e064707f510094e7601e36d4308</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 06:44:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

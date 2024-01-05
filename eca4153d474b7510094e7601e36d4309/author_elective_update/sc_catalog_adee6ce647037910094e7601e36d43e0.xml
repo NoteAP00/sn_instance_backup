@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="DELETE">
+        <active>true</active>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 09:14:56</sys_created_on>
+        <sys_id>adee6ce647037910094e7601e36d43e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name Card Caatalog</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_update_name>sc_catalog_adee6ce647037910094e7601e36d43e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 09:14:56</sys_updated_on>
+        <title>Name Card Caatalog</title>
+    </sc_catalog>
+    <sys_translated_text action="DELETE" query="documentkey=adee6ce647037910094e7601e36d43e0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Name card">eca4153d474b7510094e7601e36d4309</application>
+        <file_path/>
+        <instance_id>9ea81635dbca730852dd2f17d4961921</instance_id>
+        <instance_name>dev87549</instance_name>
+        <name>sc_catalog_adee6ce647037910094e7601e36d43e0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog"><sc_catalog action="INSERT_OR_UPDATE"><active>true</active><description/><desktop_continue_shopping/><desktop_home_page/><desktop_image/><editors/><enable_wish_list>false</enable_wish_list><manager/><sys_class_name>sc_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-14 09:14:56</sys_created_on><sys_id>adee6ce647037910094e7601e36d43e0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Name Card Caatalog</sys_name><sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package><sys_policy/><sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope><sys_update_name>sc_catalog_adee6ce647037910094e7601e36d43e0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-14 09:14:56</sys_updated_on><title>Name Card Caatalog</title></sc_catalog><sys_translated_text action="delete_multiple" query="documentkey=adee6ce647037910094e7601e36d43e0"/></record_update>]]></payload>
+        <payload_hash>357617640</payload_hash>
+        <record_name>Name Card Caatalog</record_name>
+        <reverted_from/>
+        <source>24a4153d474b7510094e7601e36d430e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 09:14:57</sys_created_on>
+        <sys_id>62feece647037910094e7601e36d43ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c679b8fb40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 09:14:57</sys_updated_on>
+        <type>Catalog</type>
+        <update_guid>a6feece64603791011f14805985724aa</update_guid>
+        <update_guid_history>a6feece64603791011f14805985724aa:357617640</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Name Card Caatalog">1a0f602a47037910094e7601e36d43c2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 09:15:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_catalog">sc_catalog</sys_db_object>
+        <sys_id>1327f5d1b4154cc09c2788aae15de400</sys_id>
+        <sys_metadata>adee6ce647037910094e7601e36d43e0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name Card Caatalog</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_scope_delete display_value="">44832a3e23704b20a41a0cf97f903441</sys_scope_delete>
+        <sys_update_name>sc_catalog_adee6ce647037910094e7601e36d43e0</sys_update_name>
+        <sys_update_version display_value="sc_catalog_adee6ce647037910094e7601e36d43e0">62feece647037910094e7601e36d43ab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 09:15:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

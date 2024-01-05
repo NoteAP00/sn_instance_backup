@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Description" section_id="a0a2a17d478b7510094e7601e36d4391" sys_domain="global" table="x_1244110_name_car_request_name_card" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 05:05:12</sys_created_on>
+            <sys_id>a0a2e17d478b7510094e7601e36d431a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Description" display_value="Description" name="x_1244110_name_car_request_name_card" sys_domain="global" view="Default view">a0a2a17d478b7510094e7601e36d4391</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 05:05:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Description</caption>
+            <header>false</header>
+            <name>x_1244110_name_car_request_name_card</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 05:05:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a0a2a17d478b7510094e7601e36d4391</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_1244110_name_car_request_name_card</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+            <sys_update_name>sys_ui_section_a0a2a17d478b7510094e7601e36d4391</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 05:05:33</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Name card">eca4153d474b7510094e7601e36d4309</application>
+        <file_path/>
+        <instance_id>9ea81635dbca730852dd2f17d4961921</instance_id>
+        <instance_name>dev87549</instance_name>
+        <name>sys_ui_section_a0a2a17d478b7510094e7601e36d4391</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Description" section_id="a0a2a17d478b7510094e7601e36d4391" sys_domain="global" table="x_1244110_name_car_request_name_card" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 05:05:12</sys_created_on><sys_id>a0a2e17d478b7510094e7601e36d431a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Description" display_value="Description" name="x_1244110_name_car_request_name_card" sys_domain="global" view="Default view">a0a2a17d478b7510094e7601e36d4391</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 05:05:12</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Description</caption><header>false</header><name>x_1244110_name_car_request_name_card</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 05:05:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a0a2a17d478b7510094e7601e36d4391</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_1244110_name_car_request_name_card</sys_name><sys_overrides/><sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package><sys_policy/><sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope><sys_update_name>sys_ui_section_a0a2a17d478b7510094e7601e36d4391</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 05:05:33</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1353729130</payload_hash>
+        <record_name>Request Name Card</record_name>
+        <reverted_from/>
+        <source>24a4153d474b7510094e7601e36d430e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 05:05:33</sys_created_on>
+        <sys_id>fdb2257d478b7510094e7601e36d437d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5c6a81b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 05:05:33</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b5b2257ddc8b7510efb66c5ef866bc7d</update_guid>
+        <update_guid_history>b5b2257ddc8b7510efb66c5ef866bc7d:-1353729130,64a2e17daf8b75108f2d8fc8ad04601b:1000867378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-13 02:29:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>4d735f5b422d453a8c34e9d9f429d4c9</sys_id>
+        <sys_metadata>a0a2a17d478b7510094e7601e36d4391</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Description</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_parent display_value="Request Name Card">9d07d1fd474b7510094e7601e36d430e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_scope_delete display_value="">44832a3e23704b20a41a0cf97f903441</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a0a2a17d478b7510094e7601e36d4391</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a0a2a17d478b7510094e7601e36d4391">fdb2257d478b7510094e7601e36d437d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-13 02:29:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

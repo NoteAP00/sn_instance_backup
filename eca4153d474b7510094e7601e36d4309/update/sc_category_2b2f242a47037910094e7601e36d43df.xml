@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Name Card Catalog">821fece647037910094e7601e36d43f0</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-14 09:16:07</sys_created_on>
+        <sys_id>2b2f242a47037910094e7601e36d43df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Name Card Category</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_update_name>sc_category_2b2f242a47037910094e7601e36d43df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-14 09:16:07</sys_updated_on>
+        <title>Name Card Category</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=2b2f242a47037910094e7601e36d43df"/>
+</record_update>

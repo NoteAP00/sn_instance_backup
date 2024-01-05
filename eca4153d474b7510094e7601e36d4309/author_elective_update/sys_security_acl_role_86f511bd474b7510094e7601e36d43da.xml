@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 04:09:52</sys_created_on>
+        <sys_id>86f511bd474b7510094e7601e36d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1244110_name_car_working_team.business_stakeholder</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_security_acl display_value="x_1244110_name_car_working_team">8af511bd474b7510094e7601e36d43d7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_86f511bd474b7510094e7601e36d43da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 04:09:52</sys_updated_on>
+        <sys_user_role display_value="business_stakeholder" name="business_stakeholder">3be5d3d1b7103300dff9fa13ee11a987</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Name card">eca4153d474b7510094e7601e36d4309</application>
+        <file_path/>
+        <instance_id>9ea81635dbca730852dd2f17d4961921</instance_id>
+        <instance_name>dev87549</instance_name>
+        <name>sys_security_acl_role_86f511bd474b7510094e7601e36d43da</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-12 04:09:52</sys_created_on><sys_id>86f511bd474b7510094e7601e36d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1244110_name_car_working_team.business_stakeholder</sys_name><sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package><sys_policy/><sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope><sys_security_acl display_value="x_1244110_name_car_working_team">8af511bd474b7510094e7601e36d43d7</sys_security_acl><sys_update_name>sys_security_acl_role_86f511bd474b7510094e7601e36d43da</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-12 04:09:52</sys_updated_on><sys_user_role display_value="business_stakeholder" name="business_stakeholder">3be5d3d1b7103300dff9fa13ee11a987</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-625653554</payload_hash>
+        <record_name>x_1244110_name_car_working_team.business_stakeholder</record_name>
+        <reverted_from/>
+        <source>24a4153d474b7510094e7601e36d430e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 04:09:52</sys_created_on>
+        <sys_id>cef511bd474b7510094e7601e36d43dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c5c37871c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 04:09:52</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>06f511bdd54b751000131e54672daedc</update_guid>
+        <update_guid_history>06f511bdd54b751000131e54672daedc:-625653554</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1244110_name_car_working_team.business_stakeholder">82fc563547cf7510094e7601e36d431e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-12 09:20:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>04b42e5c03334a3986ce536307fae6e9</sys_id>
+        <sys_metadata>86f511bd474b7510094e7601e36d43da</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1244110_name_car_working_team.business_stakeholder</sys_name>
+        <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+        <sys_parent display_value="">8af511bd474b7510094e7601e36d43d7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+        <sys_scope_delete display_value="">44832a3e23704b20a41a0cf97f903441</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_86f511bd474b7510094e7601e36d43da</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_86f511bd474b7510094e7601e36d43da">cef511bd474b7510094e7601e36d43dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-12 09:20:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

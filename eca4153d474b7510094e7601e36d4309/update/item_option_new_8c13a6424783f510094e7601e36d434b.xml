@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Request Name Card">bd1ef6c24707f510094e7601e36d43af</cat_item>
+        <cat_item/>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -13,7 +13,7 @@
         <delete_roles/>
         <delivery_plan/>
         <description/>
-        <display_title>false</display_title>
+        <display_title>true</display_title>
         <do_not_select_first>false</do_not_select_first>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>name</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -37,25 +37,25 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
-        <map_to_field>true</map_to_field>
+        <mandatory>false</mandatory>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>name</name>
-        <order>200</order>
+        <name>request_name_card</name>
+        <order>0</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Requester Name (Caller)</question_text>
+        <question_text>Request Name Card</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
         <rec_lookup_price/>
         <rec_price_if_checked>0</rec_price_if_checked>
         <record/>
-        <record_producer_table>x_1244110_name_car_request_name_card</record_producer_table>
-        <reference>sys_user</reference>
+        <record_producer_table/>
+        <reference/>
         <reference_qual/>
         <reference_qual_condition/>
         <rich_text/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-13 06:29:03</sys_created_on>
-        <sys_id>ab3fb2464707f510094e7601e36d4314</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>name</sys_name>
+        <sys_created_on>2023-12-13 04:25:10</sys_created_on>
+        <sys_id>8c13a6424783f510094e7601e36d434b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Request Name Card</sys_name>
         <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
         <sys_policy/>
         <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
-        <sys_update_name>item_option_new_ab3fb2464707f510094e7601e36d4314</sys_update_name>
+        <sys_update_name>item_option_new_8c13a6424783f510094e7601e36d434b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-14 03:48:21</sys_updated_on>
+        <sys_updated_on>2023-12-13 04:28:21</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>8</type>
+        <type>19</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=ab3fb2464707f510094e7601e36d4314"/>
-    <fx_price action="delete_multiple" query="id=ab3fb2464707f510094e7601e36d4314"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8c13a6424783f510094e7601e36d434b"/>
+    <fx_price action="delete_multiple" query="id=8c13a6424783f510094e7601e36d434b"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>ab3fb2464707f510094e7601e36d4314</id>
+        <id>8c13a6424783f510094e7601e36d434b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-13 06:29:04</sys_created_on>
-        <sys_id>be6f76464707f510094e7601e36d4350</sys_id>
+        <sys_created_on>2023-12-13 04:25:10</sys_created_on>
+        <sys_id>8413ae424783f510094e7601e36d43ae</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-13 06:29:04</sys_updated_on>
+        <sys_updated_on>2023-12-13 04:25:10</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>ab3fb2464707f510094e7601e36d4314</id>
+        <id>8c13a6424783f510094e7601e36d434b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-12-13 06:29:04</sys_created_on>
-        <sys_id>726f76464707f510094e7601e36d4350</sys_id>
+        <sys_created_on>2023-12-13 04:25:10</sys_created_on>
+        <sys_id>4c13ae424783f510094e7601e36d43ad</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-13 06:29:04</sys_updated_on>
+        <sys_updated_on>2023-12-13 04:25:10</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>

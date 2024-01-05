@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="e0a2a17d478b7510094e7601e36d4392" sys_domain="global" table="x_1244110_name_car_request_name_card" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 05:05:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28a2a17d478b7510094e7601e36d4396</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1244110_name_car_request_name_card" name="x_1244110_name_car_request_name_card" sys_domain="global" view="Default view">e0a2a17d478b7510094e7601e36d4392</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1244110_name_car_request_name_card" sys_domain="global" view="Default view">1df0a1f9478b7510094e7601e36d4358</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 05:05:11</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-13 08:17:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0381b464787f510094e7601e36d43e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1244110_name_car_request_name_card" name="x_1244110_name_car_request_name_card" sys_domain="global" view="Default view">e0a2a17d478b7510094e7601e36d4392</sys_ui_form>
+            <sys_ui_section caption="Other Data" display_value="Other Data" name="x_1244110_name_car_request_name_card" sys_domain="global" view="Default view">64381b464787f510094e7601e36d43e1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-13 08:17:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1244110_name_car_request_name_card</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-12 05:05:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0a2a17d478b7510094e7601e36d4392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1244110_name_car_request_name_card</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Name card" source="x_1244110_name_car">eca4153d474b7510094e7601e36d4309</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Name card">eca4153d474b7510094e7601e36d4309</sys_scope>
+            <sys_update_name>sys_ui_form_sections_e0a2a17d478b7510094e7601e36d4392</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-12 05:05:11</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
